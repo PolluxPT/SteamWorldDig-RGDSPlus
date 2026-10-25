@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting Key="Language.Custom" Value="en" />
+  <Setting Key="Language.Fallback" Value="en" />
+  <Setting Key="Screen.Fullscreen" Value="1" />
+  <Setting Key="Screen.FullscreenSize" Value="desktop" />
+  <Setting Key="Screen.Display" Value="0" />
+  <Setting Key="Screen.WindowSize" Value="640,480" />
+  <Setting Key="Screen.WindowResizable" Value="0" />
+  <Setting Key="Screen.VSync" Value="1" />
+  <Setting Key="Visualizer.Bloom" Value="0" />
+  <Setting Key="Input.RumbleEnabled" Value="0" />
+  <Setting Key="System.MaxFramesPerSecond" Value="60" />
+</Settings>

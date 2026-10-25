@@ -1,0 +1,13 @@
+{
+  "id": "dig",
+  "title": "SteamWorld Dig",
+  "folder": "SteamWorldDig",
+  "executable": "SteamWorldDig",
+  "assets": "BundlePC",
+  "elf_class": 1,
+  "machine": 3,
+  "debian_arch": "i386",
+  "libs_dir": "libs.x86",
+  "sha256": "a8829f14642bf8a0d62bffbbad26b9caa483330348571dce8648d479213b2c90",
+  "version": "1.0"
+}
